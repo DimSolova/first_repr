@@ -3,3 +3,5 @@ world
 я изменился
 
 add master
+
+add comp
